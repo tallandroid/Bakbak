@@ -84,3 +84,4 @@ Werkzeug==2.3.6
 widgetsnbextension==4.0.3
 yarl==1.9.2
 openai==0.27.8
+jq==1.4.1
